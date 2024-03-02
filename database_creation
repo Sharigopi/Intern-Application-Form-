@@ -1,4 +1,4 @@
-CREATE TABLE internship_application (
+CREATE TABLE intern (
     id_no INT(11) PRIMARY KEY AUTO_INCREMENT,
     joinDate DATE NOT NULL,
     internName VARCHAR(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL,
