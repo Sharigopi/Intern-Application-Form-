@@ -31,5 +31,5 @@ PHP Configuration:
 -Update the database connection details in 'connection.php' if needed. 
 
 ### File Structure
-1.index.html: Bootstrap form for intern application.
+1.index.php: Bootstrap form for intern application.
 2.connection.php: PHP scripts for handling form submissions and connecting to the database.
