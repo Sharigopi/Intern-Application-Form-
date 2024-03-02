@@ -27,9 +27,11 @@ Before you begin, make sure you have the following installed on your system:
 ### Configuration
 Database Configuration:
 -Create a new database in phpMyAdmin named 'intern'.
+
 PHP Configuration:
 -Update the database connection details in 'connection.php' if needed. 
 
 ### File Structure
 1.index.php: Bootstrap form for intern application.
+
 2.connection.php: PHP scripts for handling form submissions and connecting to the database.
