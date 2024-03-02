@@ -9,7 +9,9 @@ This project is a simple web application for handling intern applications. It ut
 Before you begin, make sure you have the following installed on your system:
 
 - XAMPP: [Download XAMPP](https://www.apachefriends.org/index.html)
+  
 - A web browser (e.g., Chrome, Firefox)
+  
 1.Move the project files to the XAMPP 'htdocs' directory.
 
 2.Start the Apache and MySQL services using the XAMPP control panel.
